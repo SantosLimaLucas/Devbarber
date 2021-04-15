@@ -8,6 +8,7 @@ export const Container = styled.SafeAreaView`
     align-items: center;
 `;
 export const InputArea = styled.View`
+    width: 100%;
     padding: 40px;    
 `;
 export const CustomButton = styled.TouchableOpacity`
